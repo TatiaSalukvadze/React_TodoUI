@@ -1,0 +1,48 @@
+.create{
+    min-width:95%;
+    margin-top:23px;
+    height: 49px;
+    display:flex;
+    justify-content: space-between;
+}
+#message{
+    border-radius: 5px;
+        background: #EBEFF2;
+        width:80%;
+        height:100%;
+        border:0;
+        background-image: url('../../images/tichka.png');
+        background-position: left 14px center;
+        background-repeat: no-repeat;
+        padding-left: 48px;
+        font-family: 'Inter', sans-serif;
+        font-size: 16px;
+            font-weight: 400;
+}
+#message::placeholder{
+    color: #888;
+        font-size: 16px;
+        font-weight: 400;
+}
+
+#plus{
+width: 88px;
+    height: 100%;
+    border-radius: 5px;
+        background: #20EEB0;
+        border:0;
+        font-size:35px;
+        color:#fff;
+        display: flex;
+            padding: 10px;
+            padding-left:20px;
+            padding-right: 20px;
+            justify-content: center;
+            align-items: center;
+}
+
+@media (min-width:900px) {
+    #message,#message::placeholder {
+        font-size: 22px;}
+       
+}
