@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/React_TodoUI/static/css/main.ff55976c.css",
+    "main.css": "/React_TodoUI/static/css/main.d9e60073.css",
     "main.js": "/React_TodoUI/static/js/main.8218cb27.js",
-    "static/media/flowers.png": "/React_TodoUI/static/media/flowers.b7cf252a6b213f6cddd0.png",
+    "static/media/flowers.jpg": "/React_TodoUI/static/media/flowers.1f0f4c1fb57b101fb77e.jpg",
     "index.html": "/React_TodoUI/index.html",
     "static/media/trash-icon.svg": "/React_TodoUI/static/media/trash-icon.49d20fe48444a82452136c4843fc24c7.svg",
     "static/media/circle.svg": "/React_TodoUI/static/media/circle.c7146b73d121160d793a9547b290144d.svg",
-    "main.ff55976c.css.map": "/React_TodoUI/static/css/main.ff55976c.css.map",
+    "main.d9e60073.css.map": "/React_TodoUI/static/css/main.d9e60073.css.map",
     "main.8218cb27.js.map": "/React_TodoUI/static/js/main.8218cb27.js.map"
   },
   "entrypoints": [
-    "static/css/main.ff55976c.css",
+    "static/css/main.d9e60073.css",
     "static/js/main.8218cb27.js"
   ]
 }
