@@ -1,8 +1,9 @@
 .head{
     width:100%;
-    background-image: url('../../images/flowers.png');
+    background-image: url('../../images/flowers.jpg');
     background-repeat: no-repeat;
     background-size: cover;
+    background-position:center;
     min-height:202px;
     border-radius: 10px 10px 0px 0px;
     color:white;
